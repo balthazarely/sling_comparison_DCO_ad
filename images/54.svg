@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="37px" height="22px" viewBox="0 0 37 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SLING_BRA0949_Provider_Comparison_Chart_300x250-/-Frame-4" transform="translate(-190.000000, -76.000000)" fill="#001E60">
+            <g id="Hulu-info" transform="translate(189.000000, 52.000000)">
+                <g id="Group" transform="translate(0.000000, 21.000000)">
+                    <text id="a-month" font-family="ProximaNova-Medium, Proxima Nova" font-size="7" font-weight="400" line-spacing="9">
+                        <tspan x="6.3755" y="23">a month</tspan>
+                    </text>
+                    <text id="$54" font-family="BrandonText-Black, Brandon Text" font-size="16" font-weight="700" line-spacing="20" letter-spacing="-0.2">
+                        <tspan x="0" y="17">$54</tspan>
+                    </text>
+                    <text id="99-copy" font-family="BrandonText-Black, Brandon Text" font-size="8" font-weight="700" line-spacing="12" letter-spacing="-0.2">
+                        <tspan x="29.044" y="10">99</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

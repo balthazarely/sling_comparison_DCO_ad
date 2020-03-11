@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* Fonts
+-------------------------------------------------- */
+
+@font-face {
+	font-family: "brandon-text-black";
+	src:url("../fonts/brandon-text-webkit/hvd_fonts_-_brandontext-black-webfont.woff2")
+			format("woff2"),
+			url("../../fonts/brandon-text-webkit/hvd_fonts_-_brandontext-black-webfont.woff")
+			format("woff");
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+    font-family: 'proximanova_regular';
+    src: url('../fonts/proximanova_regular_macroman/proximanova-regular-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+        url('../fonts/proximanova_regular_macroman/proximanova-regular-webfont.woff') format('woff'); /* Modern Browsers */
+    font-weight: normal;
+    font-style: normal;
+}
